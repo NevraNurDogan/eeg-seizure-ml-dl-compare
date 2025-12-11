@@ -63,6 +63,7 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki kütüphaneler
 
 ```bash
 pip install pandas scikit-learn tensorflow keras scipy matplotlib seaborn
+```
 Veri Seti
 Veri Seti: Projede kullanılan veri seti, Kaggle platformunda yayınlanan "Epileptic Seizure Recognition" veri setidir.
 
